@@ -90,7 +90,7 @@ main {
 
 .hero-banner {
   
-  background-image: url("../images/Hero.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url("../images/hero.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   
